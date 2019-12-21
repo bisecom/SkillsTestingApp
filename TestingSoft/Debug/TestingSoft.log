@@ -1,0 +1,314 @@
+﻿  Source.cpp
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(31): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(36): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(38): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(51): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(57): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(65): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(69): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(76): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(77): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(78): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(79): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(80): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(81): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(109): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(114): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(115): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(122): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(133): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(219): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(230): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(264): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(265): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(266): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(288): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(289): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(290): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(291): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(292): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(293): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(299): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(304): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(309): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(314): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(319): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(324): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(369): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(427): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note:  см. объявление "kbhit"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(429): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note:  см. объявление "getch"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(496): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(509): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(512): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(536): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(551): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(574): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(590): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(594): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(597): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(619): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(674): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(698): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(720): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(750): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note:  см. объявление "kbhit"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(752): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note:  см. объявление "getch"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(792): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note:  см. объявление "kbhit"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(794): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note:  см. объявление "getch"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(835): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note:  см. объявление "kbhit"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(837): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note:  см. объявление "getch"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(885): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note:  см. объявление "kbhit"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(887): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note:  см. объявление "getch"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(945): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note:  см. объявление "kbhit"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(947): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note:  см. объявление "getch"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1002): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1062): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1112): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1142): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1162): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1173): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1219): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1225): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1227): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1254): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1293): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1349): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1376): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1382): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1300): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1332): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1333): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note:  см. объявление "strcat"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1334): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note:  см. объявление "strcat"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1335): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note:  см. объявление "strcat"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1366): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1367): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note:  см. объявление "strcat"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1368): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note:  см. объявление "strcat"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1369): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note:  см. объявление "itoa"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1370): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note:  см. объявление "strcat"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1276): warning C4101: temp: неиспользованная локальная переменная
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1409): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1427): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1472): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1492): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1502): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1616): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1638): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1646): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1434): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1591): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1593): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1594): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1595): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1407): warning C4101: temp: неиспользованная локальная переменная
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1686): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1731): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1758): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1693): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1665): warning C4101: temp: неиспользованная локальная переменная
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1813): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1858): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1881): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1901): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1905): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1914): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1820): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1793): warning C4101: temp: неиспользованная локальная переменная
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1958): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1975): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1984): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1996): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2010): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2035): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2055): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2059): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2069): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(1936): warning C4101: temp: неиспользованная локальная переменная
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2101): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2121): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2132): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2144): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2158): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2184): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2199): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2202): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2087): warning C4101: temp: неиспользованная локальная переменная
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2241): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2261): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2272): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2284): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2298): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2326): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2364): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2367): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2412): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2436): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2469): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2476): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2396): warning C4101: temppass: неиспользованная локальная переменная
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2528): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2540): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2552): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2598): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2619): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2530): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2531): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2533): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2559): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2585): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2586): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2653): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2660): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2725): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2770): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2789): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2799): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2846): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2856): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2732): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2706): warning C4101: temp: неиспользованная локальная переменная
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2894): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2939): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2958): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2968): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2901): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(2878): warning C4101: temp: неиспользованная локальная переменная
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3062): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3105): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3192): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3198): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3069): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3129): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3130): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note:  см. объявление "strcat"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3131): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note:  см. объявление "strcat"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3132): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note:  см. объявление "itoa"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3133): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note:  см. объявление "strcat"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3147): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3149): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3151): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3153): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3155): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3157): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3165): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3167): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3169): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3171): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3173): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3175): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3225): warning C4018: <: несоответствие типов со знаком и без знака
+d:\education_step\c#\projects\_oop_projects\testingsoft\testingsoft\source.cpp(3235): warning C4018: <: несоответствие типов со знаком и без знака
+  TestingSoft.vcxproj -> D:\Education_Step\C#\Projects\_OOP_Projects\TestingSoft\Debug\TestingSoft.exe
+  TestingSoft.vcxproj -> D:\Education_Step\C#\Projects\_OOP_Projects\TestingSoft\Debug\TestingSoft.pdb (Full PDB)

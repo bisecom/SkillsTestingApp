@@ -1,0 +1,14 @@
+Дискретная математика
+Примените марковскую подстановку a->L к слову abcddacba ?
+abdacb
+ddacba
+aacba
+bcddcb
+4
+Дискретная математика
+Примените марковскую подстановку abc->a к слову abcabcabcab ?
+abcab
+bcab
+abc
+aaaab
+4
